@@ -11,7 +11,7 @@
 
 # In[36]:
 
-
+# Great job!!!! However, you forgot to run your model on the test set in the last question. Remember that the validation set is to help you decide whether your model is good enough and the ultimate perfomance test should be done on the test set.
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
